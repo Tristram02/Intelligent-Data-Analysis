@@ -217,14 +217,7 @@ Refer to individual README files for detailed instructions and parameter customi
 
 ## Author
 
-Kamil Włodarczyk (259413)
-
-## Course Information
-
-**Course**: Intelligent Data Analysis  
-**Institution**: [University Name]  
-**Academic Year**: 2024/2025  
-**Part**: 1 - Neural Network Fundamentals
+Kamil Włodarczyk
 
 ## License
 
